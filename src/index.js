@@ -5,6 +5,7 @@ import roteadorUsuario from "./routes/usuario.js";
 
 
 
+
 dotenv.config();
 
 const app = express();              // Instancia o Express
